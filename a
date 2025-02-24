@@ -1,0 +1,137 @@
+[33mcommit 7d0496b9350bd7688dde6febc12f9bcfd33163db[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 44374bf 4cc185e
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:34:09 2025 +0530
+
+    Merge branch 'new-branch'
+
+[33mcommit 44374bf1384bb7e80829f548a82b74525d2d77c5[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:33:49 2025 +0530
+
+    in master
+
+[33mcommit 4cc185e4459bc482eca5af039761adb4877bdc50[m[33m ([m[1;32mnew-branch[m[33m)[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:33:03 2025 +0530
+
+    in new branch
+
+[33mcommit e3294bdcb7e962f03d2220ead2d638206e5027fc[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:31:17 2025 +0530
+
+    Deleted file.txt and task1.txt
+
+[33mcommit 5ba7bd3138796f1d253423154dbbea60fa62c56a[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:27:53 2025 +0530
+
+    done
+
+[33mcommit 3eaf0e5185a81c02f373d6f76250776747fba55c[m
+Merge: d2ac595 66302b9
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:25:46 2025 +0530
+
+    Merge branch 'new-branch'
+
+[33mcommit d2ac5959a0cfba0625d68ba278b97ae4c3246974[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:25:34 2025 +0530
+
+    in master
+
+[33mcommit 66302b98ee352bfc0ebd4793df0efe563541b2a3[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:24:27 2025 +0530
+
+    in new branch
+
+[33mcommit d43de95fa1735752242556da910b4175ab7161e2[m
+Merge: c085a84 0517744
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:17:13 2025 +0530
+
+    Merge branch 'new-branch'
+
+[33mcommit 05177444df09aeceab554db3b21ec0fe8aea152a[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:16:38 2025 +0530
+
+    in new branch
+
+[33mcommit c085a84264f6ead62a9a034cc58190b7ec623d1a[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:15:29 2025 +0530
+
+    in master
+
+[33mcommit 02fbb5e68a7bd9b775b9dd835fcb96cf4f8b5b8b[m
+Merge: 5163f37 15d22a7
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:04:36 2025 +0530
+
+    Merge branch 'new-branch'
+
+[33mcommit 5163f37f8d629f61285aa6a0d031832b6eb6f932[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:04:21 2025 +0530
+
+    in master
+
+[33mcommit 15d22a77a1221d8fdf0a316f4d71a255280ef6ff[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 04:01:47 2025 +0530
+
+    in new branch
+
+[33mcommit 820a239cce963faf21ecd44d88695bb050a36810[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 03:57:42 2025 +0530
+
+    merge completed:done
+
+[33mcommit 53b5ec296a3eb2bb2772ae8aa832bac1411db4e1[m
+Merge: f5edc03 cf65a44
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 03:46:52 2025 +0530
+
+    Merge branch 'new-branch'
+
+[33mcommit cf65a44ab9aa4d9702fea7124b3a520b503983d9[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 03:44:48 2025 +0530
+
+    add changes in new branch
+
+[33mcommit f5edc03d5b19865aaa5121faca1eb6b515a61983[m
+Merge: cc9a8a8 a1140dd
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 03:35:59 2025 +0530
+
+    Merge branch 'new-branch'
+
+[33mcommit cc9a8a8afd27e00ec1e5be0417d9123286c5d4cd[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 03:33:49 2025 +0530
+
+    modify branch in master branch
+
+[33mcommit a1140dd2c1aadb9256eb4cb4e7d276dc21e58875[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 03:31:41 2025 +0530
+
+    add changes to new branch
+
+[33mcommit 37cfa83905243f92ae2d7ff4ac733baf0788d65c[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 03:14:52 2025 +0530
+
+    Modify branch in master branch
+
+[33mcommit 6095178840f477f11399f145116919d9790a8fd0[m
+Author: Preetish <sainipreetish02@gmail.com>
+Date:   Mon Feb 24 03:04:15 2025 +0530
+
+    Add changes in new branch
